@@ -1,5 +1,5 @@
 # About List
-**Your contributions are always welcome!** If you want to contribute to this list, send a _pull request_ or _contact me_ at @hookstar1993.
+**Your contributions are always welcome!** If you want to contribute to this list, send a _pull request_ or _contact me_ at @hookstar1993
 
 The purpose of this list is to bring together add-ons, tools, tutorials, and many useful resources for Blender users or those who want to use it. And other 3D software users can also benefit from many of these resources. The target audience of this list is professional or hobbyist 3D artists who want to produce works with blender, developers and researchers who want to develop with blender.
 
