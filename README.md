@@ -846,6 +846,7 @@ _Some accounts where you can find different kinds of content related to blender.
 ### 📢Youtube Channels [^](#table)
 
 -   [IanHubert](https://www.youtube.com/user/mrdodobird/videos) : _Lazy tutorials_, modeling, animating, vfx, cinematic.
+-   [HOOKSTAR FX](https://www.youtube.com/channel/UCa4rh63Gu0YZGNyx4-iT69Q?sub_confirmation=1) : tutorials_, modeling, animating, vfx, video editing.
 -   [Midge Sinnaeve](https://www.youtube.com/channel/UCChYCkbgArLsCl5DWlxuKhQ/videos) : modifiers, _weird sh!t_, art streams.
 -   [CGMatter](https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg/videos) : short tutorials.
 -   [Default Cube](https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ/videos) : CGMatter's second channel used for longer tutorials and other kinds of videos.
