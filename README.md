@@ -816,6 +816,7 @@ _Some accounts where you can find different kinds of content related to blender.
 
 [@pablodp606](https://twitter.com/pablodp606),
 [@3DBystedt](https://twitter.com/3DBystedt),
+[@hookstar1993](https://twitter.com/hookstar1993),
 [@ppaawweeuu](https://twitter.com/ppaawweeuu),
 [@mxeon1001](https://twitter.com/mxeon1001),
 [@Mrdodobird](https://twitter.com/Mrdodobird),
