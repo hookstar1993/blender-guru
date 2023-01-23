@@ -1151,8 +1151,8 @@ Your contributions are always welcome! ^\_^ If you want to contribute to this li
 
 #### _Thanks for reading!_
 
-[![Let's fund](https://img.shields.io/badge/fund-blender-orange?logo=blender&style=for-the-badge)](https://fund.blender.org/)
 [![Let's fund](https://img.shields.io/badge/Donate-blenderguru-yellowgreen?logo=blender&style=for-the-badge)](https://paypal.me/djharshad1993?country.x=IN&locale.x=en_GB)
+[![Let's fund](https://img.shields.io/badge/fund-blender-orange?logo=blender&style=for-the-badge)](https://fund.blender.org/)
 
 <!-- markdown references -->
 
